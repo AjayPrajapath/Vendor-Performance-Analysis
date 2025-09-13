@@ -16,7 +16,7 @@ It covers purchase, sales, and pricing data to generate insights on vendor profi
 - `report/` : Final PDF report
 
 ## 📊 Dashboard
-<img src="screenshot.png" alt="Dashboard Screenshot" width="600"/>
+<img src="https://github.com/AjayPrajapath/Vendor-Performance-Analysis/blob/main/Dashboard/Vendor%20Performance%20Analysis.pdf" alt="Dashboard Screenshot" width="600"/>
 
 ## ✨ Key Insights
 - Top 10 vendors contribute ~75% of purchases.
