@@ -24,6 +24,6 @@ It covers purchase, sales, and pricing data to generate insights on vendor profi
 - Some brands have high margins but low sales → promotional opportunity.
 
 ## 👤 Author
-**Ajay Bhoriwal**  
+**Ajay Prajapat**  
 - [LinkedIn](https://www.linkedin.com/in/ajay-prajapat235/)  
 - [GitHub](https://github.com/AjayPrajapath)
