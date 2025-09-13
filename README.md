@@ -25,5 +25,5 @@ It covers purchase, sales, and pricing data to generate insights on vendor profi
 
 ## 👤 Author
 **Ajay Bhoriwal**  
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/ajay-prajapat235/)  
+- [GitHub](https://github.com/AjayPrajapath)
